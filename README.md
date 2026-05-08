@@ -41,7 +41,6 @@ university : Air University, Islamabad
 degree     : B.Sc. Cybersecurity — 4th Semester
 location   : Islamabad, Pakistan
 focus      : Offensive Security & Red Teaming
-seeking    : Summer Internship 2026
 contact    : alialiprince7401@gmail.com
 ```
 
